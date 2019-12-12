@@ -7,9 +7,50 @@
 ![Product Gif](https://raw.githack.com/creativetimofficial/public-assets/master/vue-white-dashboard-pro/vwdp_vue.gif)
 
 
-**Vue White Dashboard PRO** is a beautiful Bootstrap 4 Admin Dashboard that. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
+Start your development with a Premium Bootstrap 4 Vuejs Admin Template. Let Vue White Dashboard PRO amaze you with its cool features and build tools and get your project to a whole new level.
 
-We made it our priority to not add things that you don't need, so the Vue White Dashboard PRO comes with just enough features for you to easily use. It combines multiple components and plugins and features numerous example of how it can be used. Inside the archive, you will also find multiple example pages to get you started or provide inspiration.
+Speed up your web development with a beautiful product made by [Creative Tim](https://creative-tim.com/?ref=vwdp-github-readme). We made it our priority not to add things that you don't need, so the Vue White Dashboard PRO comes with just enough features for you to easily use. It combines multiple components and plugins and features numerous example of how it can be used.  It also combines colours that are easy on the eye, spacious cards, beautiful typography, and graphics.  
+
+If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you!
+
+<br>
+
+**Getting Started**
+
+1. Make sure you have Node.js installed.
+2. Navigate to the main directory (from terminal) where `package.json` is located.
+3. Run `npm install` or `yarn install`
+4. Run `npm run serve` or `yarn serve` to start the local development server and start prototyping.
+
+<br>
+
+
+**Fully Coded Components**
+
+Vue White Dashboard PRO is built with over frontend 200 individual components, giving you the freedom of choosing and combining. All components can take variations in colour,
+that you can easily modify using SASS files and classes.
+
+You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
+This Premium Bootstrap 4 Vuejs Admin Template is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
+
+View [all components here](https://demos.creative-tim.com/vue-white-dashboard-pro/documentation/components/alerts.html?ref=vwdp-github-readme)
+
+
+<br>
+
+**COMPLEX DOCUMENTATION**
+
+Each element is well presented in a very complex documentation.
+You can read more about the [idea behind this design system here](https://demos.creative-tim.com/vue-white-dashboard-pro/documentation?ref=vwdp-github-readme). You can [check the components here](https://demos.creative-tim.com/vue-white-dashboard-pro/documentation/components/alerts.html?ref=vwdp-github-readme) and the [colors/typography/columns/elements here](https://demos.creative-tim.com/vue-white-dashboard-pro/documentation?ref=vwdp-github-readme).
+
+<br>
+
+**HELPFUL LINKS**
+
+- View [Github Repository](https://github.com/creativetimofficial/ct-vue-white-dashboard-pro)
+- Check [FAQ Page](https://www.creative-tim.com/faq?ref=vwdp-github-readme)
 
 #### Bootstrap 4 support
 
