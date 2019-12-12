@@ -98,9 +98,10 @@ Vue White Dashboard PRO is built on top of [Bootstrap 4](https://getbootstrap.co
 
 ## Quick start
 
-- Clone the repo: `git clone https://github.com/creativetimofficial/vue-white-dashboard.git`.
-- [Download from Github](https://github.com/creativetimofficial/vue-white-dashboard/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/vue-white-dashboard?ref=vwdp-github-readme).
+1. Make sure you have Node.js installed.
+2. Navigate to the main directory (from terminal) where `package.json` is located.
+3. Run `npm install` or `yarn install`
+4. Run `npm run serve` or `yarn serve` to start the local development server and start prototyping.
 
 
 ## Documentation
@@ -308,7 +309,7 @@ We use GitHub Issues as the official bug tracker for the Vue White Dashboard. He
 
 ## Licensing
 
-- Copyright 2019 Creative Tim (https://www.creative-tim.com/?ref=vwdp-github-readme)
+- [Copyright 2019 Creative Tim](https://www.creative-tim.com/?ref=vwdp-github-readme)
 
 ## Useful Links
 
