@@ -4,7 +4,7 @@
  ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/white-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-white-dashboard-pro/issues/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-white-dashboard-pro/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-white-dashboard-pro/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 
-![Product Gif](https://raw.githack.com/creativetimofficial/public-assets/master/vue-white-dashboard-pro/vwdp_vue.gif)
+![Product Gif](https://rawcdn.githack.com/creativetimofficial/public-assets/9dc91001961141108bc9480dfc33035b2f8d7503/vue-white-dashboard-pro/vwdp_vue.gif)
 
 
 Start your development with a Premium Bootstrap 4 Vuejs Admin Template. Let Vue White Dashboard PRO amaze you with its cool features and build tools and get your project to a whole new level.
