@@ -1,15 +1,12 @@
 # [Vue White Dashboard PRO](https://demos.creative-tim.com/vue-white-dashboard-pro?ref=vwdp-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fdemos.creative-tim.com%2Fvue-white-dashboard-pro&text=Vue%20White%20Dashboard%20PRO%20by%20Creative%20Tim&via=CreativeTim&hashtags=vuejs%20%23white%20%23dashboard)
 
-
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)  [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/white-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-white-dashboard-pro/issues/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-white-dashboard-pro/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-white-dashboard-pro/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
-
+![version](https://img.shields.io/badge/version-1.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/white-dashboard/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-white-dashboard-pro/issues/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-vue-white-dashboard-pro/issues.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-vue-white-dashboard-pro/issues/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-white-dashboard-pro/vwdp_vue.gif)
 
-
 Start your development with a Premium Bootstrap 4 Vuejs Admin Template. Let Vue White Dashboard PRO amaze you with its cool features and build tools and get your project to a whole new level.
 
-Speed up your web development with a beautiful product made by [Creative Tim](https://creative-tim.com/?ref=vwdp-github-readme). We made it our priority not to add things that you don't need, so the Vue White Dashboard PRO comes with just enough features for you to easily use. It combines multiple components and plugins and features numerous example of how it can be used.  It also combines colours that are easy on the eye, spacious cards, beautiful typography, and graphics.  
+Speed up your web development with a beautiful product made by [Creative Tim](https://creative-tim.com/?ref=vwdp-github-readme). We made it our priority not to add things that you don't need, so the Vue White Dashboard PRO comes with just enough features for you to easily use. It combines multiple components and plugins and features numerous example of how it can be used. It also combines colours that are easy on the eye, spacious cards, beautiful typography, and graphics.
 
 If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you!
 
@@ -24,7 +21,6 @@ If you are looking for a tool to manage and visualize data about your business, 
 
 <br>
 
-
 **Fully Coded Components**
 
 Vue White Dashboard PRO is built with over frontend 200 individual components, giving you the freedom of choosing and combining. All components can take variations in colour,
@@ -36,7 +32,6 @@ This Premium Bootstrap 4 Vuejs Admin Template is coming with prebuilt examples, 
 Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
 View [all components here](https://demos.creative-tim.com/vue-white-dashboard-pro/documentation/components/alerts.html?ref=vwdp-github-readme)
-
 
 <br>
 
@@ -58,27 +53,25 @@ Vue White Dashboard PRO is built on top of [Bootstrap 4](https://getbootstrap.co
 
 ## Table of Contents
 
-
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
 
 ## Versions
+
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-white-dashboard-pro?ref=vwdp-github-readme)
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/white-dashboard-pro-laravel?ref=vwdp-github-readme)
 
-
-| Vue | Laravel |
-| --- | --- |
-| [![Vue White Dashboard PRO ](https://raw.githack.com/creativetimofficial/public-assets/master/vue-white-dashboard-pro/thumbnail.jpg)](https://www.creative-tim.com/product/vue-white-dashboard-pro?ref=vwdp-github-readme)  | [![White Dashboard PRO Laravel](https://github.com/creativetimofficial/public-assets/blob/master/white-dashboard-pro-laravel/white-dashboard-pro-laravel.jpg?raw=true)](https://www.creative-tim.com/product/white-dashboard-pro-laravel?ref=vwdp-github-readme)
+| Vue                                                                                                                                                                                                                        | Laravel                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Vue White Dashboard PRO ](https://raw.githack.com/creativetimofficial/public-assets/master/vue-white-dashboard-pro/thumbnail.jpg)](https://www.creative-tim.com/product/vue-white-dashboard-pro?ref=vwdp-github-readme) | [![White Dashboard PRO Laravel](https://github.com/creativetimofficial/public-assets/blob/master/white-dashboard-pro-laravel/white-dashboard-pro-laravel.jpg?raw=true)](https://www.creative-tim.com/product/white-dashboard-pro-laravel?ref=vwdp-github-readme) |
 
 ## Demo
 
@@ -88,13 +81,13 @@ Vue White Dashboard PRO is built on top of [Bootstrap 4](https://getbootstrap.co
 - [Maps Page](https://demos.creative-tim.com/vue-white-dashboard-pro/#/maps/google?ref=vwdp-github-readme)
 - [Notifications page](https://demos.creative-tim.com/vue-white-dashboard-pro/#/components/notifications?ref=vwdp-github-readme)
 
-| Start page | User profile page | Tables page  |
-| --- | --- | ---  |
-| [![Start page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/start-page.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro?ref=vwdp-github-readme)  | [![User profile page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/user.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard/#/user?ref=vwdp-github-readme)  | [![Tables pages](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/table.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro/#/table-list/regular?ref=vwdp-github-readme)
+| Start page                                                                                                                                                                                                       | User profile page                                                                                                                                                                                                    | Tables page                                                                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Start page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/start-page.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro?ref=vwdp-github-readme) | [![User profile page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/user.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard/#/user?ref=vwdp-github-readme) | [![Tables pages](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/table.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro/#/table-list/regular?ref=vwdp-github-readme) |
 
-| Maps page | Notifications page | RTL page  |
-| --- | --- | ---  |
-| [![Maps page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/maps.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro/#/maps/google?ref=vwdp-github-readme)  | [![Notifications page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/notifications.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro/#/components/notifications?ref=vwdp-github-readme)  | [![RTL page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/rtl-page.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro/#/rtl?ref=vwdp-github-readme)  
+| Maps page                                                                                                                                                                                                               | Notifications page                                                                                                                                                                                                                                     | RTL page                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![Maps page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/maps.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro/#/maps/google?ref=vwdp-github-readme) | [![Notifications page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/notifications.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro/#/components/notifications?ref=vwdp-github-readme) | [![RTL page](https://github.com/creativetimofficial/public-assets/blob/master/vue-white-dashboard-pro/rtl-page.png?raw=true)](https://demos.creative-tim.com/vue-white-dashboard-pro/#/rtl?ref=vwdp-github-readme) |
 
 ## Quick start
 
@@ -103,12 +96,12 @@ Vue White Dashboard PRO is built on top of [Bootstrap 4](https://getbootstrap.co
 3. Run `npm install` or `yarn install`
 4. Run `npm run serve` or `yarn serve` to start the local development server and start prototyping.
 
-
 ## Documentation
+
 The documentation for the Vue White Dashboard PRO is hosted at our [website](https://demos.creative-tim.com/vue-white-dashboard-pro/documentation?ref=vwdp-github-readme).
 
-
 ## File Structure
+
 Within the download you'll find the following directories and files:
 
 ```
@@ -283,7 +276,6 @@ Within the download you'll find the following directories and files:
     └── throttle.js
 ```
 
-
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
@@ -291,6 +283,7 @@ At present, we officially aim to support the last two versions of the following 
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
 ## Resources
+
 - Demo: <https://demos.creative-tim.com/vue-white-dashboard-pro/#/dashboard>
 - Download Page: <https://www.creative-tim.com/product/vue-white-dashboard-pro>
 - Documentation: <https://demos.creative-tim.com/vue-white-dashboard-pro/documentation>
@@ -306,10 +299,9 @@ We use GitHub Issues as the official bug tracker for the Vue White Dashboard. He
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
-
 ## Licensing
 
-- [Copyright 2019 Creative Tim](https://www.creative-tim.com/?ref=vwdp-github-readme)
+- [Copyright 2023 Creative Tim](https://www.creative-tim.com/?ref=vwdp-github-readme)
 
 ## Useful Links
 
